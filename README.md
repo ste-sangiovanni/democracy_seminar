@@ -3,8 +3,8 @@
 **Course: "Political Sociology" by Prof. Cristiano Vezzoni**
 
 ## Authors
-- Giorgio Dolci PhD candidate in Sociology and Social Research, University of Milan
-- Stefano Sangiovanni PhD candidate in Political Studies, University of Milan
+- **Giorgio Dolci**, PhD candidate in Sociology and Social Research, University of Milan
+- **Stefano Sangiovanni**, PhD candidate in Political Studies, University of Milan
 
 ## Overview
 This repository contains slides from two seminars on the measurement of democracy. 
